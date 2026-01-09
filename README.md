@@ -17,7 +17,7 @@
 
 ## 📫 Contact Me
 - Email: singhritik3133@gmail.com
-- LinkedIn: [linkedin.com/in/yourname]https://www.linkedin.com/in/ritik-singh-bba7b5338/
+- LinkedIn: https://www.linkedin.com/in/ritik-singh-bba7b5338/
 
 <!--
 **singhritik3133/singhritik3133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
