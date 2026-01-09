@@ -10,11 +10,10 @@
 - Web: React, HTML, CSS
 - Tools: Git, GitHub, Selenium
 
-## 📌 Projects I'm proud of
-- **LeetPeer Tracker:** Full-stack dashboard to track coding activity
-- **Sitare Result Scraper:** Automates CGPA scraping from Sitare portal
-- **C Programming Basics:** Small programs & algorithms
-
+## 📌 Projects I'm Proud Of
+- **LeetPeer Tracker:** Full-stack web application to track and analyze student coding activity on LeetCode. Features interactive dashboards and analytics.  
+- **YouTube Analyzer:** Python & web scraping project to analyze YouTube channels, video stats, and generate reports automatically.
+- 
 ## 📫 Contact Me
 - Email: singhritik3133@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ritik-singh-bba7b5338/
